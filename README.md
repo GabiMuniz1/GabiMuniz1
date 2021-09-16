@@ -1,5 +1,11 @@
 ## Oiee prazer, sou Gabriella Muniz
 <div>
+<p><b>👩‍💻 Desenvolvedora full stack em formação</b></p>
+<p><b>🏅 Aluna Generation </p></b>
+<b>🦄 She/Ela/Dela </b>
+</div>
+
+<div>
   <a href-"https://github.com/GabiMuniz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiMuniz1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMuniz1&layout=compact&langs_count=7&theme=dracula"/>
