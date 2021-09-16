@@ -14,8 +14,7 @@
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabi-Chibi" src="https://i.picasion.com/pic91/1bebf0a55c77e47dffb2362ccfe22fe3.gif">
-  
+ 
   ##
   
 <div> 
