@@ -1,4 +1,4 @@
-## Oiee prazer, sou Gabriella Muniz
+## Oiee prazer, sou Marília Muniz
 <div>
 <p><b>👩‍💻 Desenvolvedora full stack em formação</b></p>
 <p><b>🏅 Aluna Generation </p></b>
