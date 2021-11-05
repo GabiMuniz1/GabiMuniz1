@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/GabiMuniz1">
-  <img height="120em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabiMuniz1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="120em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMuniz1&layout=compact&langs_count=7&theme=react"/>
-  <img height="120" width="148" align="center" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=GabiMuniz1&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiMuniz1&layout=compact&langs_count=7&theme=react"/>
+  <img height="180" width="148" align="right" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
    
  <br>
